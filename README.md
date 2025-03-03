@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [I have join Recenlty GitHub Application](I have join Recenlty GitHub Application)
 
-- 📫 How to reach me **hadimohd687@gmail.com**
+- 📫 How to reach me **Sonalnagvanshi1@gmail.com**
 
 - ⚡ Fun fact **I AM Serious..**
 
