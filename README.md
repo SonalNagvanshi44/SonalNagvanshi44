@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@mohdhadi72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mohdhadi72" height="30" width="40" /></a>
-<a href="https://twitter.com/https://x.com/mr_x__zaidi?t=djyctbc9izizd0deplymgg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/mr_x__zaidi?t=djyctbc9izizd0deplymgg&s=09" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mr_x__zaidi.72?igshid=yzvkodrmotdmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_x__zaidi.72?igshid=yzvkodrmotdmm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@hussain__inspires72?si=jl7mjoehdzdri_hm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@hussain__inspires72?si=jl7mjoehdzdri_hm" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@mohdhadi72" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/mr_x__zaidi?t=djyctbc9izizd0deplymgg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@hussain__inspires72?si=jl7mjoehdzdri_hm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
